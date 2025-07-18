@@ -7,6 +7,7 @@ Use these public, free REST APIs to build bots or apps easily. Status updates in
 |--------------------|----------|----------------|-----------------------------------------------------|--------------------------------|
 | SimSim Nexalo    | 🟢 Online | Hridoy         | [GitHub](https://github.com/1dev-hridoy) | https://simsim-nexalo.vercel.app |
 | SUS APIs    | 🟢 Online| Hridoy| [GitHub](https://github.com/1dev-hridoy) | https://sus-apis.onrender.com |
+| Hridoy APIs    | 🟢 Online| Hridoy| [GitHub](https://github.com/1dev-hridoy) | https://hridoyxqc-apis.vercel.app/ |
 | Nexalo Rest API | 🟢 Online | Hridoy  | [GitHub](https://github.com/1dev-hridoy)  | https://nexalo-api.vercel.app/docs |
 | Wataru API    | 🟢 Online | Ajiro desu | [GitHub](https://github.com/ajirodesu) | https://wataru-api.vercel.app/docs |
 | Pop Cat API    | 🟢 Online | Zero Two | [GitHub](https://github.com/CoderPopCat) | https://popcat.xyz/api |
